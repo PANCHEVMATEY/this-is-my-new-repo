@@ -1,2 +1,3 @@
 This is for rebase feature.
+Conflict!!!
 This should result in rebase conflict.
