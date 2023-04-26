@@ -1,1 +1,2 @@
 This is for rebase feature.
+This should result in rebase conflict.
